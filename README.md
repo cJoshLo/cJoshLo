@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Joshua Lopez
+Hi, I’m Joshua Lopez
+
 I am a Software Engineer currently currently looking for opprtnuities in backend development.
 
 My most resent project is building an e-commerce auction site through the use of Django framework to efficiently 
